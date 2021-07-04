@@ -1,0 +1,27 @@
+{
+  "name": "fishy-equilibrium",
+  "version": "1.0.0",
+  "description": "A game based on Nash Equilibrium ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/jaisas-jessy18/fishy-equilibrium.git"
+  },
+  "author": "Jaisas Jessy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jaisas-jessy18/fishy-equilibrium/issues"
+  },
+  "homepage": "https://gitlab.com/jaisas-jessy18/fishy-equilibrium#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2",
+    "textfit": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/socket.io": "^3.0.2"
+  }
+}
